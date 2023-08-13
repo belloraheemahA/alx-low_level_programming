@@ -1,9 +1,8 @@
 #include <stdio.h>
 	/**
 	 * main - Entry point
-	 *
-	 * Description- program that print
-	 * Return: Always 0 (success)
+	 * Description - Function that prinit
+	 * Return: 0
 	 */
 int main(void)
 {
